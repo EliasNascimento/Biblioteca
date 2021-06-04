@@ -18,17 +18,6 @@ a {
   border-color: #1861ac;
 }
 
-.btn-azul-outline {
-    position: relative;
-    color: #280071;
-    background-color: #dfdfdf;
-    border-color: #280071;
-    border: 1px solid;
-    border-radius: 1.5625em;
-    transition: color .4s,background-color .4s;
-}
-
-
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #1b6ec2;
